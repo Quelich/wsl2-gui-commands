@@ -16,9 +16,9 @@
 - add: xfce
 - add: startxfce4
 - save file:
-### Connect to remote server
+### Connect to remote server (localhost:3390)
 - sudo /etc/init.d/xrdp start
-### Open Remote Desktop Connection localhost:3390
+
 
 
 
